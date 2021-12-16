@@ -1,0 +1,4 @@
+
+function reloadMethod() {
+    alert("back")
+}
